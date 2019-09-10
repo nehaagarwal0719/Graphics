@@ -62,7 +62,7 @@ int main (int argc, char** argv)
 	// giving window size in X- and Y- direction 
 	glutInitWindowSize(500, 500); 
 	// Giving name to window 
-	glutCreateWindow("Cicle"); 
+	glutCreateWindow("Circle"); 
 	myInit(); 
 	
 	glutDisplayFunc(display); 
